@@ -23,6 +23,7 @@
     "elliptic": "^6.5.3",
     "jquery": "^3.5.1",
     "minimist": "^1.2.5",
+    "node-forge": "^0.10.0",
     "rxjs": "~6.4.0",
     "semantic-ui-css": "^2.4.1",
     "serialize-javascript": "^4.0.0",
